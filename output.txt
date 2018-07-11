@@ -1,0 +1,25 @@
+hello pes university
+
+
+Total number of bits used to store the string = 160  
+
+'h'-> 1 'n'-> 1 'o'-> 1 'p'-> 1 'r'-> 1 't'-> 1 'u'-> 1 'v'-> 1 'y'-> 1 'l'-> 2 's'-> 2 'i'-> 2 ' '-> 2 'e'->3 
+ 
+Total number of characters :  20 
+
+e : 00
+h : 0100
+n : 0101
+y : 0110
+l : 0111
+s : 100
+u : 1010
+v : 1011
+  : 1100
+o : 11010
+p : 11011
+i : 1110
+r : 11110
+t : 11111
+
+Total number of bits used to store the string by Huffman Coding = 76  
